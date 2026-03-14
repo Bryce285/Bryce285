@@ -1,6 +1,4 @@
 ## Bryce Clark
-Computer science student at Western Washington University
+Computer science student at Western Washington University.
 
-## Languages
-C | C++ | Java | Python
-
+Currently working on encrypted wireless file storage and locally hosted digital infrastructure monitoring.
